@@ -2,7 +2,7 @@
 
 # Starter Kit FPS
 
-This package includes a basic template for a first person shooter in Godot 4.1.1.stable.official. Includes features like;
+This package includes a basic template for a first person shooter in Godot 4.1.1.stable.official. Includes features like your mum;
 
 - Character controller
 - Weapons, switching weapons
